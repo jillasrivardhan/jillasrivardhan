@@ -1,27 +1,57 @@
-# 💫 About Me:
-# 👋 Hi there, I'm Sri Vardhan!<br><br>🚀 Final-year **B.Tech CSE student** focused on **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development**.<br><br>💻 I enjoy building practical AI-powered applications, automation workflows, and full-stack projects while learning by building and experimenting.<br><br>### 🌱 Currently Learning<br><br>* 🐍 Python & Data Structures and Algorithms<br>* 🤖 Artificial Intelligence & Machine Learning<br>* 🧠 Deep Learning fundamentals<br>* ✨ Generative AI, LLMs & RAG<br>* 🤖 AI Agents & Agentic AI<br>* 🔗 LangChain & AI application development<br>* ⚙️ AI Automation with n8n<br><br>### 🛠️ Tech Stack<br><br>* 💻 Python<br>* 🤖 Machine Learning & Scikit-learn<br>* 🧠 Deep Learning<br>* ✨ Generative AI & LLMs<br>* 🔗 LangChain<br>* 🗃️ FAISS & RAG<br>* 🦙 Ollama<br>* 🌐 HTML5, CSS3 & JavaScript<br>* ⚛️ React & Next.js<br>* 🟦 TypeScript<br>* 🗄️ SQL & Databases<br>* 🔧 Git & GitHub<br>* ⚙️ n8n & AI Automation<br><br>### 📌 What You'll Find Here<br><br>* 🤖 Generative AI & AI Agent Projects<br>* 🔎 RAG & LangChain Applications<br>* 🧠 Machine Learning & Deep Learning Projects<br>* 💬 AI Chatbots & LLM Applications<br>* ⚙️ AI Automation Workflows<br>* 🌐 Full-Stack AI Applications<br>* 🐍 Python Applications & DSA Practice<br>* 💡 Learning Projects & Experiments<br><br>### 🎯 Goals<br><br>* 🌟 Become a skilled AI / GenAI Engineer<br>* 🤖 Build intelligent and practical AI-powered applications<br>* 🧠 Strengthen Machine Learning, Deep Learning & LLM fundamentals<br>* 🔗 Build real-world RAG and AI Agent systems<br>* ⚙️ Learn to design useful AI automation workflows<br>* 🚀 Keep learning by building and contributing to the developer community<br><br>### 📫 Connect With Me<br><br>⭐ Thanks for visiting my profile! Feel free to explore my repositories, and if you find something useful, don't forget to leave a ⭐.<br>
+## Generative Ai
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=jillasrivardhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226028037%3Fv%3D4" alt="jillasrivardhan hero visual" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1Vwsb2NhgC/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jilla-srivardhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jillasrivardhan@gmail.com) 
+**Srivardhan** · Building practical applications
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jillasrivardhan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jillasrivardhan&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jillasrivardhan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## Operating principles
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jillasrivardhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<pre><code>ROLE        = Generative Ai engineer
+LOCATION    = Telangana, Siddipet
+PUBLIC_REPOS = 76
+COMMUNITY   = 4 followers</code></pre>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Final-year B.Tech CSE | AI Enthusiast | Gen-Ai engineer | Always learning, always building 🚀
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jillasrivardhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Uptime in motion
 
----
-[![](https://komarev.com/ghpvc/?username=jillasrivardhan&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=jillasrivardhan&theme=github-dark" alt="jillasrivardhan contribution activity" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Service signals
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=jillasrivardhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226028037%3Fv%3D4" alt="jillasrivardhan stats visual" />
+</p>
+
+<p><code>602 contributions</code> · <code>66 day streak</code></p>
+
+## Infrastructure shipped
+
+- **[Jilla_Srivardhan-Portfolio](https://github.com/jillasrivardhan/Jilla_Srivardhan-Portfolio)** — A modern, interactive personal portfolio website showcasing my journey, skills, experience, projects, and work in Artificial Intelligence, Machine Learning, Generative AI, RAG, and AI Agents. · ⭐ 1
+- **[ai-job-search-engine](https://github.com/jillasrivardhan/ai-job-search-engine)** — 10x Job Hunter is a personal AI-powered job search dashboard for students. Upload a PDF or DOCX resume, extract a structured profile, collect permitted job listings through Apify, score each role against skills and preferences, and view ranked matches with direct links to the original job postings. · ⭐ 1
+- **[Linkedin-Post-Automation](https://github.com/jillasrivardhan/Linkedin-Post-Automation)** — Automated 30-day AI LinkedIn content generation and publishing workflow built with n8n and AI Agents. · ⭐ 0
+- **[Multi-Agent-ReSearch-System](https://github.com/jillasrivardhan/Multi-Agent-ReSearch-System)** — ResearchMind is a Streamlit-based AI research application that turns a topic into a structured research report. It combines web search, webpage extraction, LLM-based analysis, report generation, and review in a staged workflow. · ⭐ 0
+- **[Langchain-Chatbot](https://github.com/jillasrivardhan/Langchain-Chatbot)** — A simple and professional AI conversational chatbot built using LangChain, Ollama, and Streamlit. · ⭐ 0
+- **[Student_Performance_Prediction](https://github.com/jillasrivardhan/Student_Performance_Prediction)** — A machine learning classification project that predicts a student's final grade category based on academic, behavioral, and lifestyle-related factors. · ⭐ 0
+
+## Platform toolkit
+
+<p><code>jillasrivardhan@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=jillasrivardhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226028037%3Fv%3D4" alt="jillasrivardhan stack visual" />
+</p>
+
+## Keep it moving
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=jillasrivardhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226028037%3Fv%3D4" alt="jillasrivardhan social visual" />
+</p>
+
+<a href="https://github.com/jillasrivardhan">GitHub</a> · <a href="https://portfolio-bndsktc0i-johnwickchap74-2167.vercel.app/#home">Website</a>
+
+<p align="center"><sub>Srivardhan · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
