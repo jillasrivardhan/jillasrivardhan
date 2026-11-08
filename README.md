@@ -1,19 +1,19 @@
-## Delivery pipeline
+## Generative Ai
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=jillasrivardhan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F226028037%3Fv%3D4" alt="jillasrivardhan hero visual" />
 </p>
 
-**Srivardhan** · Backend or systems engineer
+**Srivardhan** · Building practical applications
 
 ## Operating principles
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = Generative Ai engineer
 LOCATION    = Telangana, Siddipet
 PUBLIC_REPOS = 76
 COMMUNITY   = 4 followers</code></pre>
 
-Final-year B.Tech CSE | AI Enthusiast | Full-Stack Developer | Always learning, always building 🚀
+Final-year B.Tech CSE | AI Enthusiast | Gen-Ai engineer | Always learning, always building 🚀
 
 ## Uptime in motion
 
